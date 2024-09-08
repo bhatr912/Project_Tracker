@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083632235464",
+    "project_id": "cuisinegenie-1bdf3",
+    "storage_bucket": "cuisinegenie-1bdf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083632235464:android:2806c5ddf826a5342ec6fd",
+        "android_client_info": {
+          "package_name": "com.example.cookbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtdRbMpenZV8xCvhKKQv_-DIO_Yfy5KqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083632235464:android:db5146d49f278a1c2ec6fd",
+        "android_client_info": {
+          "package_name": "com.example.location_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtdRbMpenZV8xCvhKKQv_-DIO_Yfy5KqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
